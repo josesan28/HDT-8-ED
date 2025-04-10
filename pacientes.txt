@@ -1,0 +1,30 @@
+Ana Vélez, dolor de cabeza leve, D
+Pedro Castro, fractura expuesta de fémur, A
+Elena Ruiz, resfriado común, D
+Diego Rojas, herida por arma de fuego, A
+Valeria Soto, esguince de tobillo, C
+Jorge Paredes, apendicitis aguda, A
+Camila Núñez, dermatitis leve, D
+Ricardo Mora, accidente cerebrovascular, A
+Lucía Guzmán, dolor menstrual intenso, B
+Felipe Torres, quemadura de segundo grado, C
+María José León, gripe con fiebre, E
+Carlos Andrade, crisis asmática severa, A
+Sofía Ríos, ansiedad aguda, B
+Héctor Salas, fractura de brazo, C
+Daniela Flores, picadura de alacrán, E
+Oscar Medina, dolor lumbar crónico, D
+Patricia Toledo, neumonía, B
+Raúl Sarmiento, convulsiones febriles, E
+Adrián Castro, luxación de hombro, C
+Gabriela Paz, intoxicación etílica, B
+Mario López, hipertensión descontrolada, A
+Fernanda Silva, alergia cutánea leve, D
+Roberto Díaz, dengue hemorrágico, E
+Carmen Vega, parto activo, A
+Juan Carlos Méndez, gastroenteritis viral, B
+Laura Cordero, fractura de dedo, C
+José Ramírez, dolor de espalda inespecífico, D
+Natalia Herrera, COVID-19 con dificultad respiratoria, A
+Alberto Ríos, paperas, E
+Luis Mendoza, infarto agudo, A
